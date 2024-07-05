@@ -1,0 +1,204 @@
+@charset "UTF-8";
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #583f7e;
+}
+[href]{
+    text-decoration: none;
+}
+header{
+    background-color:#0275d8;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header:hover{
+    background-color: #0269c2;
+}
+
+#tit1{
+    color: white;
+    font-size: 1.1em;
+}
+#menu{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    background-color:white;
+}
+#menu1{
+    width: 70%;
+    display: flex;
+    padding: 20px 5%;
+}
+#lista1{
+    list-style-type: none;
+    text-align: center;
+}
+#menu2{
+    width: 30%;
+    display: flex;
+    padding: 20px 1%;
+}
+#lista2{
+    list-style-type: none;
+    display: flex;
+    float: right;
+    text-align: center;
+}
+#boton1{
+    font-weight: bold;
+    color:#583f7e;
+    font-size: 1.1em;
+    display: inline;
+    margin-right: 15px;
+}
+.botones{
+    color:#583f7e;
+    display: inline;
+    margin-right: 15px;
+}
+.botones:hover{
+    background-color:beige;
+}
+.enlaceboton{
+    color:#583f7e;
+}
+#enlaceboton1{
+    color:#583f7e;
+}
+#secgeneral{
+    width: 100%;
+    background-color:#583f7e;
+    margin-top: 70px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#capa1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#capaborde1{
+    width: 12%;
+    height: 170px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: #cdbfe3 0.1px solid;
+    border-radius: 20px;
+   
+  
+}
+#b{
+    color:white;
+    font-size: 7em;
+}
+#capa2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#capatexto{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin:30px 0px;
+    color: #cdbfe3;
+    font-weight: normal;
+}
+#capa3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#textoboton{
+    color: #cdbfe3;
+    border:#cdbfe3 0.1px solid;
+    border-radius: 5px;
+    font-weight: normal;
+    font-size: 0.9em;
+    padding:1%
+}
+#textoboton:hover{
+    background-color: white;
+    color:#583f7e;
+}
+#curren{
+    margin:10px 0px;
+    color: #9783b9
+}
+#seccion2{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#capaborde2{
+    width: 20%;
+    display: flex;
+    border:#9783b9 0.1px solid;
+    border-radius: 10px;
+    margin:3%;
+    padding:20px
+}
+#imgadobe{
+    
+}
+#parte2{
+    padding:0px 3px;
+}
+#parrafito{
+    color:white;
+    font-size: 0.85em;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    padding-left: 6px;
+    padding-top: 15px;
+    line-height: 1.3em;
+}
+div p+p{
+    color:#cdbfe3;
+    font-size: 0.85em;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    padding-left: 6px;
+    font-weight: lighter;
+}
+footer{
+    background-color:#2a2730;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+footer>p{
+    width: 80%;
+    padding: 10px;
+    color:#99979c;
+    font-size: 0.9em;
+}
+span{
+    color:white;
+}
