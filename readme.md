@@ -1,4 +1,4 @@
-# Evaluación Práctica Certificado Profesional
+# Evaluación Práctica UF1303 del Certificado Profesional
 
 Examen práctico sobre replicar una página de Bootstrap, dada como imagen en un documento por el profesor, con unos parametros marcados. Utilizando HTML y CSS.
 En el proceso de aprendizaje haciamos varios ejercicios prácticos para aprender a fondo CSS y luego pasabamos a hacer evaluaciones prácticas y cuestionarios con preguntas. Esta es una de esas evaluaciones, pero comparto mas en mi GitHub.
