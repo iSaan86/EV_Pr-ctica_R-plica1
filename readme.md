@@ -8,7 +8,7 @@ En el proceso de aprendizaje haciamos varios ejercicios prácticos para aprender
 ![Mi Web](img/captura.jpg)
 
 ## Ver ejemplo en vivo
-[https://github.com/iSaan86/EV_Practica_Replica1](https://github.com/iSaan86/EV_Practica_Replica1)
+[https://isaan86.github.io/EV_Practica_Replica1/](https://isaan86.github.io/EV_Practica_Replica1/)
 
 ## Tecnologías Utilizadas
 
